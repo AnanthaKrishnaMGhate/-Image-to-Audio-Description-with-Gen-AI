@@ -30,8 +30,9 @@ The primary objective of this project is to understand and implement a **basic A
 - Practical exposure to AI-based software development  
 
 ## 📂 Project Structure
-├── app.py
+├── Image-to-Audio-Description-with-Gen-AI.py
 ├── requirements.txt
 ├── assets/
 ├── models/
 └── README.md
+
