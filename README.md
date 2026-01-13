@@ -30,3 +30,8 @@ The primary objective of this project is to understand and implement a **basic A
 - Practical exposure to AI-based software development  
 
 ## 📂 Project Structure
+├── app.py
+├── requirements.txt
+├── assets/
+├── models/
+└── README.md
